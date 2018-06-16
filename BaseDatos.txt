@@ -1,0 +1,14 @@
+*************************CREACION BASE DE DATOS*******************
+
+
+Pedro
+Maria
+Jose
+Carlos
+Adriana
+Favio
+Nepomuceno
+Platelminto
+Primogenito
+Alkazetcer
+
