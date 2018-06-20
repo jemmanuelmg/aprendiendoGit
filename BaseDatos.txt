@@ -37,7 +37,6 @@ Platelminto
 Primogenito
 Alkazetcer
 
-
 //Cuarto paquete para nuevo comit
 Pedro
 Maria
@@ -86,8 +85,6 @@ Platelminto
 Primogenito
 Alkazetcer
 
-
-
 //Octavo paquete para nuevo comit
 Pedro
 Maria
@@ -99,6 +96,3 @@ Nepomuceno
 Platelminto
 Primogenito
 Alkazetcer
-
-
-
